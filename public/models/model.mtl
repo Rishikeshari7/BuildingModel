@@ -1,0 +1,350 @@
+newmtl Building_1_Material
+Ka 0.52 0.96 0.68
+Kd 0.52 0.96 0.68
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_2_Material
+Ka 0.73 0.55 0.77
+Kd 0.73 0.55 0.77
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_3_Material
+Ka 0.84 0.66 0.86
+Kd 0.84 0.66 0.86
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_4_Material
+Ka 0.71 0.5 0.51
+Kd 0.71 0.5 0.51
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_5_Material
+Ka 1.0 0.89 0.96
+Kd 1.0 0.89 0.96
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_6_Material
+Ka 0.97 0.59 0.69
+Kd 0.97 0.59 0.69
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_7_Material
+Ka 0.75 0.5 0.66
+Kd 0.75 0.5 0.66
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_8_Material
+Ka 0.5 0.66 0.5
+Kd 0.5 0.66 0.5
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_9_Material
+Ka 0.74 0.71 0.53
+Kd 0.74 0.71 0.53
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_10_Material
+Ka 0.57 0.69 0.67
+Kd 0.57 0.69 0.67
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_11_Material
+Ka 0.84 0.87 0.94
+Kd 0.84 0.87 0.94
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_12_Material
+Ka 1.0 0.63 0.7
+Kd 1.0 0.63 0.7
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_13_Material
+Ka 0.76 0.7 0.58
+Kd 0.76 0.7 0.58
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_14_Material
+Ka 0.88 0.66 0.84
+Kd 0.88 0.66 0.84
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_15_Material
+Ka 0.77 0.56 0.51
+Kd 0.77 0.56 0.51
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_16_Material
+Ka 0.61 0.8 0.58
+Kd 0.61 0.8 0.58
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_17_Material
+Ka 0.95 0.57 0.7
+Kd 0.95 0.57 0.7
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_18_Material
+Ka 0.59 0.63 0.56
+Kd 0.59 0.63 0.56
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_19_Material
+Ka 0.71 0.94 0.92
+Kd 0.71 0.94 0.92
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_20_Material
+Ka 0.91 0.9 0.53
+Kd 0.91 0.9 0.53
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_21_Material
+Ka 0.96 0.95 0.6
+Kd 0.96 0.95 0.6
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_22_Material
+Ka 0.68 0.81 0.7
+Kd 0.68 0.81 0.7
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_23_Material
+Ka 0.94 0.64 0.53
+Kd 0.94 0.64 0.53
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_24_Material
+Ka 0.87 0.76 0.94
+Kd 0.87 0.76 0.94
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_25_Material
+Ka 0.82 0.62 0.96
+Kd 0.82 0.62 0.96
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_26_Material
+Ka 0.94 0.79 0.54
+Kd 0.94 0.79 0.54
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_27_Material
+Ka 0.91 0.64 0.8
+Kd 0.91 0.64 0.8
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_28_Material
+Ka 0.74 0.74 0.76
+Kd 0.74 0.74 0.76
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_29_Material
+Ka 0.86 0.95 0.91
+Kd 0.86 0.95 0.91
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_30_Material
+Ka 0.67 1.0 0.8
+Kd 0.67 1.0 0.8
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_31_Material
+Ka 0.52 0.5 0.59
+Kd 0.52 0.5 0.59
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_32_Material
+Ka 0.73 0.96 0.9
+Kd 0.73 0.96 0.9
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_33_Material
+Ka 0.75 0.65 0.8
+Kd 0.75 0.65 0.8
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_34_Material
+Ka 0.97 1.0 0.57
+Kd 0.97 1.0 0.57
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_35_Material
+Ka 0.9 0.99 0.62
+Kd 0.9 0.99 0.62
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_36_Material
+Ka 0.95 0.93 0.89
+Kd 0.95 0.93 0.89
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_37_Material
+Ka 0.61 0.83 0.75
+Kd 0.61 0.83 0.75
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_38_Material
+Ka 0.67 0.98 0.87
+Kd 0.67 0.98 0.87
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_39_Material
+Ka 0.53 0.86 0.92
+Kd 0.53 0.86 0.92
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_40_Material
+Ka 0.88 0.64 0.5
+Kd 0.88 0.64 0.5
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_41_Material
+Ka 0.75 0.51 0.51
+Kd 0.75 0.51 0.51
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_42_Material
+Ka 0.73 0.84 0.95
+Kd 0.73 0.84 0.95
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_43_Material
+Ka 0.55 0.7 0.95
+Kd 0.55 0.7 0.95
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_44_Material
+Ka 0.74 0.74 0.74
+Kd 0.74 0.74 0.74
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_45_Material
+Ka 0.69 0.57 0.99
+Kd 0.69 0.57 0.99
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_46_Material
+Ka 0.93 0.88 0.77
+Kd 0.93 0.88 0.77
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_47_Material
+Ka 0.88 0.65 0.63
+Kd 0.88 0.65 0.63
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_48_Material
+Ka 0.54 0.85 0.56
+Kd 0.54 0.85 0.56
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_49_Material
+Ka 0.92 0.62 0.92
+Kd 0.92 0.62 0.92
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
+newmtl Building_50_Material
+Ka 0.63 0.52 0.83
+Kd 0.63 0.52 0.83
+Ks 0.5 0.5 0.5
+Ns 96.078431
+d 1.0
+illum 2
